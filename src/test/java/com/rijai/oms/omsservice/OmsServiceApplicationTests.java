@@ -8,6 +8,7 @@ class OmsServiceApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("Context loaded");
     }
 
 }
